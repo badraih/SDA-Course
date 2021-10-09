@@ -1,0 +1,13 @@
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.exe
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.deps.json
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.runtimeconfig.json
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.runtimeconfig.dev.json
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.dll
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\bin\Debug\netcoreapp3.1\ReadStudentData.pdb
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.csproj.AssemblyReference.cache
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.AssemblyInfoInputs.cache
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.AssemblyInfo.cs
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.csproj.CoreCompileInputs.cache
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.dll
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.pdb
+C:\Users\beedo\OneDrive\سطح المكتب\SDA-Course\ReadStudentData\ReadStudentData\obj\Debug\netcoreapp3.1\ReadStudentData.genruntimeconfig.cache
